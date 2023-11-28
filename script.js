@@ -92,7 +92,7 @@ if (myAge >= rental) {
 if (myAge < jrop) {
     console.error(`You are too young to drive`);
 }
-
+console.log("idk")
 }
 
 Checkage(15);
